@@ -28,3 +28,38 @@ Hour                               Pilot                 Lap             Lap Tim
 23:53:39.660      011 – S.VETTEL                          2		1:37.864			28,435
 23:54:57.757      011 – S.VETTEL                          3		1:18.097			35,633
 ```
+
+And will display the race positions from best to worst, best lap in the whole race, every pilot's best lap and his average speed and how long after the winner they crossed the finish line.
+
+Program output example
+
+```
+[Position: 1, Pilot: 038 – F.MASSA, Laps: 4, Total time: 04:11.578]
+[Position: 2, Pilot: 002 – K.RAIKKONEN, Laps: 4, Total time: 04:15.153]
+[Position: 3, Pilot: 033 – R.BARRICHELLO, Laps: 4, Total time: 04:16.080]
+[Position: 4, Pilot: 023 – M.WEBBER, Laps: 4, Total time: 04:17.722]
+[Position: 5, Pilot: 015 – F.ALONSO, Laps: 4, Total time: 04:54.221]
+[Position: 6, Pilot: 011 – S.VETTEL, Laps: 3, Total time: 06:27.276]
+================================================================================================
+011 – S.VETTEL best lap: 01:18.097
+011 – S.VETTEL average speed: 25.746
+015 – F.ALONSO best lap: 01:07.011
+015 – F.ALONSO average speed: 38.066
+002 – K.RAIKKONEN best lap: 01:03.076
+002 – K.RAIKKONEN average speed: 43.627
+033 – R.BARRICHELLO best lap: 01:03.716
+033 – R.BARRICHELLO average speed: 43.468
+038 – F.MASSA best lap: 01:02.769
+038 – F.MASSA average speed: 44.246
+023 – M.WEBBER best lap: 01:04.216
+023 – M.WEBBER average speed: 43.191
+================================================================================================
+Difference between crossing the finish line between pilots who finished the race and the winner
+002 – K.RAIKKONEN: 05.117
+033 – R.BARRICHELLO: 05.583
+023 – M.WEBBER: 08.972
+015 – F.ALONSO: 49.738
+================================================================================================
+Best lap: 01:02.769 by: 038 – F.MASSA
+```
+
