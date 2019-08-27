@@ -1,6 +1,6 @@
 # Find Out The Race Result
 
-This project will read a text file in the following format containing the race results
+This project will read a text file in the following format containing the race info
 
 ```
 Hour                               Pilot                 Lap             Lap Time            Average Lap Speed
