@@ -14,7 +14,7 @@ public class PrintUtil {
 	
 	public static void printTimeDifferenceFromWinner(List<DisplayResult> drs) {
 		
-		println("Difference between crossing the finish line between pilots who finished the race and the winner");
+		println("How long each pilot crossed the finish line after the winner");
 		
 		for (int i = 1; i < drs.size(); i++) {
 			if (drs.get(i).getLaps() != 4)
