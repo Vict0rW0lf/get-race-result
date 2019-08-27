@@ -54,7 +54,7 @@ Program output example
 023 – M.WEBBER best lap: 01:04.216
 023 – M.WEBBER average speed: 43.191
 ================================================================================================
-Difference between crossing the finish line between pilots who finished the race and the winner
+How long each pilot crossed the finish line after the winner
 002 – K.RAIKKONEN: 05.117
 033 – R.BARRICHELLO: 05.583
 023 – M.WEBBER: 08.972
