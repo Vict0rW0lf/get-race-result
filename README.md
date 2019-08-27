@@ -1,6 +1,7 @@
 # Find Out The Race Result
 
-This project will read a text file in the following format containing the race info
+This project will read a text file in the following format containing the race information.
+Example:
 
 ```
 Hour                               Pilot                 Lap             Lap Time            Average Lap Speed
@@ -29,9 +30,9 @@ Hour                               Pilot                 Lap             Lap Tim
 23:54:57.757      011 – S.VETTEL                          3		1:18.097			35,633
 ```
 
-And will display the race positions from best to worst, best lap in the whole race, every pilot's best lap and his average speed and how long after the winner they crossed the finish line.
+The program will read the file input and turn it into important race information. It will display the race positions from best to worst, best lap in the whole race, every pilot's best lap and his average speed and how long after the winner they crossed the finish line.
 
-Program output example
+Program output example:
 
 ```
 [Position: 1, Pilot: 038 – F.MASSA, Laps: 4, Total time: 04:11.578]
